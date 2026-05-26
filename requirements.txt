@@ -1,0 +1,3 @@
+gradio>=4.0
+ a u r a - s r 
+pillow
